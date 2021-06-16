@@ -226,6 +226,12 @@ a:hover .badge,
 .online-text {
   color: #0a0e21; }
 
+/* Post control buttons */
+.format-buttons .bbcode-size {
+  border-color: #5db2ff; }
+.format-buttons .bbcode-size:hover {
+  border-color: #4889c5; }
+
 /* stat-block */
 .stat-block h3 {
   background-color: #0e1520; }
